@@ -8,6 +8,7 @@ Las herramientas que se han usado para construir el proyecto fueron:
 
 * [Spring Boot]() - Spring Boot
 * [Spring Data JPA]() - Spring Data JPA
+* [Spring Security]() - Spring Security
 * [Thymeleaf]() - Thymeleaf
 * [PostgreSQL]() - PostgreSQL
 
